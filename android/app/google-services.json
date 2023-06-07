@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "126913678992",
+    "firebase_url": "https://movie-app-recommendation-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "movie-app-recommendation",
+    "storage_bucket": "movie-app-recommendation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126913678992:android:741e75f2261a6b2fcbd215",
+        "android_client_info": {
+          "package_name": "com.example.movie_recommendation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5Y1PHtH2KBCg3MII_KgvbOhBD9QV5C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126913678992:android:39b1a0f021e9655dcbd215",
+        "android_client_info": {
+          "package_name": "com.example.movie_recommendation_app_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5Y1PHtH2KBCg3MII_KgvbOhBD9QV5C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126913678992:android:cb60ba6997cbd3e4cbd215",
+        "android_client_info": {
+          "package_name": "com.example.movrecap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5Y1PHtH2KBCg3MII_KgvbOhBD9QV5C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
