@@ -13,7 +13,6 @@
 		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
 		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
-		B20BA83EFDC31F94EDE2FBB7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7CA281EA3DB2A551EF20C36A /* GoogleService-Info.plist */; };
 		C7D2E8D25B346455B53C991B /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93AF3B307A47256B357883DE /* Pods_Runner.framework */; };
 /* End PBXBuildFile section */
 
@@ -39,7 +38,6 @@
 		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
 		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; };
-		7CA281EA3DB2A551EF20C36A /* GoogleService-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "Runner/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		93AF3B307A47256B357883DE /* Pods_Runner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Runner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9740EEB21CF90195004384FC /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = Flutter/Debug.xcconfig; sourceTree = "<group>"; };
 		9740EEB31CF90195004384FC /* Generated.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; };
@@ -70,7 +68,6 @@
 				4E736C2890ADA4E3144677D5 /* Pods-Runner.release.xcconfig */,
 				50147C54574BF469F143BCC5 /* Pods-Runner.profile.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -101,7 +98,6 @@
 				97C146EF1CF9000F007C117D /* Products */,
 				52D6580CF97CA8A4E51F7FC8 /* Pods */,
 				6E7050AAEF53B10A97F389F7 /* Frameworks */,
-				7CA281EA3DB2A551EF20C36A /* GoogleService-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,8 +121,9 @@
 				74858FAE1ED2DC5600515810 /* AppDelegate.swift */,
 				74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */,
 			);
-			path = Runner;
-			sourceTree = "<group>";
+			name = Runner;
+			path = "../../../../Users/dilaraseren/Desktop/movie-mentor/ios/Runner";
+			sourceTree = DEVELOPER_DIR;
 		};
 /* End PBXGroup section */
 
@@ -195,7 +192,6 @@
 				3B3967161E833CAA004F5970 /* AppFrameworkInfo.plist in Resources */,
 				97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */,
 				97C146FC1CF9000F007C117D /* Main.storyboard in Resources */,
-				B20BA83EFDC31F94EDE2FBB7 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -54,7 +54,7 @@ class ProfilePage extends StatelessWidget {
                     children: [
                       Center(
                         child: Text(
-                          ' Dilara Seren',
+                          'Dilara Seren',
                           style: TextStyle(
                             color: Constants.blackColor,
                             fontSize: 20,
