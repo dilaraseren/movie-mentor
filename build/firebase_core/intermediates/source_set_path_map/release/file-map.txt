@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-0 /Users/dilaraseren/.gradle/caches/transforms-3/7ec0a8bc3e2c856fcdf460d9c428d362/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-1 /Users/dilaraseren/.gradle/caches/transforms-3/882106724beb3c8700bc874282498048/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.3.2-2 /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-3 /Users/dilaraseren/.gradle/caches/transforms-3/9d1a14676e63d8bf1d3c9cf71e32e614/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-4 /Users/dilaraseren/.gradle/caches/transforms-3/bb40b3d042c29acd73a3db86221fd951/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-5 /Users/dilaraseren/.gradle/caches/transforms-3/c3f8451a4d38d3fb2211754e5ec87036/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-main-6 /Users/dilaraseren/.pub-cache/hosted/pub.dev/firebase_core-2.13.1/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-7 /Users/dilaraseren/.pub-cache/hosted/pub.dev/firebase_core-2.13.1/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/intermediates/merged_res/release

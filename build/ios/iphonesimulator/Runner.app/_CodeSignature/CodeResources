@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		cirTmJFeSRhOoyoASzi12zsUXbU=
+		T0+8RpaBfc0WQfvCI6dXm8lS0/U=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		k9TJ4pxtcxEvN2yppLJS+WcReBo=
+		zt3ST/vuJg9oNEv17yg1zyLg2Cw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		och6p5jGQhBTVOvaRzNueBEZvk0=
+		6Jqej+X8oawRC8PQ7Qbw3q0OwsU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.smcbin</key>
 		<data>
-		iEpG25+kjHlVARe0cw+CzNU7nGQ=
+		HPeBOKPQI++goGgyI8J2ITF3umQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -71,10 +71,6 @@
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
 		9LRSoDy8mmw0RHpJFvpDH25bFkM=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/Hulk.webp</key>
-		<data>
-		aMeg8Ce0+x+mtDKt446kGXTFPRg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/banner.webp</key>
 		<data>
@@ -99,14 +95,6 @@
 		<key>Frameworks/App.framework/flutter_assets/assets/images/profil-yok.png</key>
 		<data>
 		+NgMAnjFUmepxN6ehzhqpGUCzT0=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/profil.png</key>
-		<data>
-		fdM6vFc+Jjxmv7D8AagTCo0isLA=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/profile.jpg</key>
-		<data>
-		udZp/yFofwJnOBLWblVM6a+602o=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/topImage.png</key>
 		<data>
@@ -166,7 +154,7 @@
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<data>
-		+JJrcrmspfQx1xTyShYVzc4k94I=
+		E2CIHRkSTb3f5N6wUzkRnX5xoXA=
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<data>
@@ -178,7 +166,7 @@
 		</data>
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<data>
-		XUHL/fx/MhmDZJ0OcfVXEhUmk/I=
+		RpM6TOujlxh0iEjNMKqgM3ZK4Os=
 		</data>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<data>
@@ -202,7 +190,7 @@
 		</data>
 		<key>Frameworks/FirebaseDatabase.framework/FirebaseDatabase</key>
 		<data>
-		4vsdL6cD3vGpK4Yv5+sySgyIYy0=
+		fKMDybqzPLPYOCqSZGH8dKMJ2N8=
 		</data>
 		<key>Frameworks/FirebaseDatabase.framework/Info.plist</key>
 		<data>
@@ -214,7 +202,7 @@
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
 		<data>
-		Rpog3pkmUQBJw3P1N1pNBjrPQA0=
+		IDS3ACfxsp17iTV+L++qxcoyKpI=
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
 		<data>
@@ -537,7 +525,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xq6lT8Buz9EDpa9+hgc3taOP5eXHIGzOpBplU5iucI4=
+			0Bh6qgtAFmI1YKDreoCxIaN6zfHRKGTEdA193esCZyA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -551,21 +539,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sqkuuvAM4vh0qb1Hi/l3kq7F3uKajoA+PtjOSWTCvTM=
+			6t+8aAjjngrQA6ti93DzStYcfzEoiUFa78nUwrKo92c=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MlSq7dyDklg1R6P+30RUKJih9lvMdw4KBAaNcZjlpZk=
+			axnbG7/w8ZYf+RJBZfScYoHSNVEy7H4nBTeD1PcH7OM=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.smcbin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Jl/f56BgmvtP1LnAy+EUjdY+r3rEJrPBNaGvsihS70=
+			XLIzA7PcS5H9gzIvq4gSNPG/J58aXK0db+6x7bIFWCs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -580,13 +568,6 @@
 			<key>hash2</key>
 			<data>
 			zHZO2OP+D6zi957xRq7ef8TyqfzCyfNVB7hiDKpqbNQ=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/Hulk.webp</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6Q8kl/XvbjVbzTO3rcw9yccTbSzBX5ywBb7KsLB/sSA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/banner.webp</key>
@@ -629,20 +610,6 @@
 			<key>hash2</key>
 			<data>
 			dGCdob8erRO/fM5th+poPOygPo7fwLjaZwj7XxT23E0=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/profil.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SflQDmkkL+QEVXy27J2jxhPHQW52cZx3NTZeryoDRy4=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/images/profile.jpg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EsVp2ivmKFmol05yMpSQA3koK4Zb7uLfi9FKRu8Zw2Q=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/topImage.png</key>
@@ -747,7 +714,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dPtlWE4mgEi3Cb+skR4gVbC5j+Nm58Ezao6b/zZhk8I=
+			nxMJwxg3LFzf1Xas0p+4vUANHCxc0H4DFE2D0ZKTKUo=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
@@ -768,7 +735,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M/DPSm/SrptkJocHc2MV/Az7qyGMjkoUDgvA2rmNcM0=
+			t1LsYwfwtkBzjjIWMVO91Nu/0vYGJGc54FkvUZfYDnE=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
@@ -810,7 +777,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kdYCQTv4944A80NeTKBOBhzi0iBDOMshJ8A5QCq0rAY=
+			hXhGDtEy9zaXSCWX4HZinWJVvLK3IjLxgiu2/r1SAQc=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseDatabase.framework/Info.plist</key>
@@ -831,7 +798,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b2XNVXN6MzmT2qZ5QAfdVg8pYkJpTYBIR0X4pl171WU=
+			VIOLN7KbeRIi+TBo+07/DxLG67gcReAVHxB9D5g4KF8=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>

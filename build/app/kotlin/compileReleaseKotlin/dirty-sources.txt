@@ -1,0 +1,1 @@
+/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/kotlin/com/example/movie_recommendation_app_course/MainActivity.kt

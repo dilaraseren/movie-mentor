@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-0 /Users/dilaraseren/.gradle/caches/transforms-3/7929261c853c0fad7d63180f33304ba4/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-1 /Users/dilaraseren/.gradle/caches/transforms-3/7ec0a8bc3e2c856fcdf460d9c428d362/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-2 /Users/dilaraseren/.gradle/caches/transforms-3/882106724beb3c8700bc874282498048/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.2-3 /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-4 /Users/dilaraseren/.gradle/caches/transforms-3/9d1a14676e63d8bf1d3c9cf71e32e614/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-5 /Users/dilaraseren/.gradle/caches/transforms-3/bb40b3d042c29acd73a3db86221fd951/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-6 /Users/dilaraseren/.gradle/caches/transforms-3/c3f8451a4d38d3fb2211754e5ec87036/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 /Users/dilaraseren/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.0/android/src/main/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 /Users/dilaraseren/.pub-cache/hosted/pub.dev/cloud_firestore-4.8.0/android/src/release/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/generated/res/pngs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/generated/res/resValues/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/generated/res/rs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/intermediates/merged_res/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/intermediates/packaged_res/release

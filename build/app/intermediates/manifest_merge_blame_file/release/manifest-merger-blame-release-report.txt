@@ -1,0 +1,259 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.movie_recommendation_app_course"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:25:5-67
+11-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:25:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:26:5-79
+12-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:26:22-76
+13
+14    <application
+14-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:3:4-41:19
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.6.0] /Users/dilaraseren/.gradle/caches/transforms-3/bb40b3d042c29acd73a3db86221fd951/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+16        android:icon="@mipmap/ic_launcher"
+16-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:5:9-43
+17        android:label="movie_recommendation_app_course" >
+17-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:4:9-56
+18        <activity
+18-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:6:9-35:20
+19            android:name="com.example.movie_recommendation_app_course.MainActivity"
+19-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:7:13-84
+20            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+20-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:10:13-163
+21            android:exported="true"
+21-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:12:13-36
+22            android:hardwareAccelerated="true"
+22-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:11:13-47
+23            android:launchMode="singleTop"
+23-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:8:13-43
+24            android:theme="@style/LaunchTheme"
+24-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:9:13-47
+25            android:windowSoftInputMode="adjustResize" >
+25-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:13:13-55
+26
+27            <!--
+28                 Specifies an Android theme to apply to this Activity as soon as
+29                 the Android process has started. This theme is visible to the user
+30                 while the Flutter UI initializes. After that, this theme continues
+31                 to determine the Window background behind the Flutter UI.
+32            -->
+33            <meta-data
+33-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:18:13-21:17
+34                android:name="io.flutter.embedding.android.NormalTheme"
+34-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:19:15-70
+35                android:resource="@style/NormalTheme" />
+35-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:20:15-52
+36            <!--
+37                 Displays an Android View that continues showing the launch screen
+38                 Drawable until Flutter paints its first frame, then this splash
+39                 screen fades out. A splash screen is useful to avoid any visual
+40                 gap between the end of Android's launch screen and the painting of
+41                 Flutter's first frame.
+42            -->
+43            <meta-data
+43-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:27:13-30:17
+44                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+44-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:28:15-79
+45                android:resource="@drawable/launch_background" />
+45-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:29:15-61
+46
+47            <intent-filter>
+47-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:31:13-34:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:32:17-68
+48-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:32:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:33:17-76
+50-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:33:27-74
+51            </intent-filter>
+52        </activity>
+53        <!--
+54             Don't delete the meta-data below.
+55             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+56        -->
+57        <meta-data
+57-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:38:9-40:33
+58            android:name="flutterEmbedding"
+58-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:39:13-44
+59            android:value="2" />
+59-->/Users/dilaraseren/Desktop/movie-mentor/android/app/src/main/AndroidManifest.xml:40:13-30
+60
+61        <service
+61-->[:firebase_auth] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+62            android:name="com.google.firebase.components.ComponentDiscoveryService"
+62-->[:firebase_auth] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-89
+63            android:directBootAware="true"
+63-->[com.google.firebase:firebase-common:20.3.2] /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:34:13-43
+64            android:exported="false" >
+64-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:68:13-37
+65            <meta-data
+65-->[:firebase_auth] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+66                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
+66-->[:firebase_auth] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+67                android:value="com.google.firebase.components.ComponentRegistrar" />
+67-->[:firebase_auth] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+68            <meta-data
+68-->[:firebase_database] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_database/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+69                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
+69-->[:firebase_database] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_database/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-127
+70                android:value="com.google.firebase.components.ComponentRegistrar" />
+70-->[:firebase_database] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_database/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+71            <meta-data
+71-->[:cloud_firestore] /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+72                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
+72-->[:cloud_firestore] /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-134
+73                android:value="com.google.firebase.components.ComponentRegistrar" />
+73-->[:cloud_firestore] /Users/dilaraseren/Desktop/movie-mentor/build/cloud_firestore/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+74            <meta-data
+74-->[:firebase_core] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+75                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+75-->[:firebase_core] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+76                android:value="com.google.firebase.components.ComponentRegistrar" />
+76-->[:firebase_core] /Users/dilaraseren/Desktop/movie-mentor/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+77            <meta-data
+77-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:69:13-71:85
+78                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+78-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:70:17-109
+79                android:value="com.google.firebase.components.ComponentRegistrar" />
+79-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:71:17-82
+80            <meta-data
+80-->[com.google.firebase:firebase-firestore:24.6.0] /Users/dilaraseren/.gradle/caches/transforms-3/dc4b8d689a44e2f7f410c7956223f43a/transformed/jetified-firebase-firestore-24.6.0/AndroidManifest.xml:19:13-21:85
+81                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+81-->[com.google.firebase:firebase-firestore:24.6.0] /Users/dilaraseren/.gradle/caches/transforms-3/dc4b8d689a44e2f7f410c7956223f43a/transformed/jetified-firebase-firestore-24.6.0/AndroidManifest.xml:20:17-111
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-firestore:24.6.0] /Users/dilaraseren/.gradle/caches/transforms-3/dc4b8d689a44e2f7f410c7956223f43a/transformed/jetified-firebase-firestore-24.6.0/AndroidManifest.xml:21:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-database:20.2.1] /Users/dilaraseren/.gradle/caches/transforms-3/4290296e671a63751f5b377ce367640b/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:31:13-33:85
+84                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+84-->[com.google.firebase:firebase-database:20.2.1] /Users/dilaraseren/.gradle/caches/transforms-3/4290296e671a63751f5b377ce367640b/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:32:17-109
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-database:20.2.1] /Users/dilaraseren/.gradle/caches/transforms-3/4290296e671a63751f5b377ce367640b/transformed/jetified-firebase-database-20.2.1/AndroidManifest.xml:33:17-82
+86        </service>
+87
+88        <activity
+88-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:29:9-46:20
+89            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+89-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:30:13-80
+90            android:excludeFromRecents="true"
+90-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:31:13-46
+91            android:exported="true"
+91-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:32:13-36
+92            android:launchMode="singleTask"
+92-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:33:13-44
+93            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+93-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:34:13-72
+94            <intent-filter>
+94-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:35:13-45:29
+95                <action android:name="android.intent.action.VIEW" />
+95-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:36:17-69
+95-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:36:25-66
+96
+97                <category android:name="android.intent.category.DEFAULT" />
+97-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:38:17-76
+97-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:38:27-73
+98                <category android:name="android.intent.category.BROWSABLE" />
+98-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:39:17-78
+98-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:39:27-75
+99
+100                <data
+100-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:41:17-44:51
+101                    android:host="firebase.auth"
+101-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:42:21-49
+102                    android:path="/"
+102-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:43:21-37
+103                    android:scheme="genericidp" />
+103-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:44:21-48
+104            </intent-filter>
+105        </activity>
+106        <activity
+106-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:47:9-64:20
+107            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+107-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:48:13-79
+108            android:excludeFromRecents="true"
+108-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:49:13-46
+109            android:exported="true"
+109-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:50:13-36
+110            android:launchMode="singleTask"
+110-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:51:13-44
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+111-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:52:13-72
+112            <intent-filter>
+112-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:53:13-63:29
+113                <action android:name="android.intent.action.VIEW" />
+113-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:36:17-69
+113-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:36:25-66
+114
+115                <category android:name="android.intent.category.DEFAULT" />
+115-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:38:17-76
+115-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:38:27-73
+116                <category android:name="android.intent.category.BROWSABLE" />
+116-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:39:17-78
+116-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:39:27-75
+117
+118                <data
+118-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:41:17-44:51
+119                    android:host="firebase.auth"
+119-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:42:21-49
+120                    android:path="/"
+120-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:43:21-37
+121                    android:scheme="recaptcha" />
+121-->[com.google.firebase:firebase-auth:22.0.0] /Users/dilaraseren/.gradle/caches/transforms-3/fcad02cdbf88664d02dfd84a3bb7461a/transformed/jetified-firebase-auth-22.0.0/AndroidManifest.xml:44:21-48
+122            </intent-filter>
+123        </activity>
+124
+125        <uses-library
+125-->[androidx.window:window:1.0.0-beta04] /Users/dilaraseren/.gradle/caches/transforms-3/7ec0a8bc3e2c856fcdf460d9c428d362/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+126            android:name="androidx.window.extensions"
+126-->[androidx.window:window:1.0.0-beta04] /Users/dilaraseren/.gradle/caches/transforms-3/7ec0a8bc3e2c856fcdf460d9c428d362/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+127            android:required="false" />
+127-->[androidx.window:window:1.0.0-beta04] /Users/dilaraseren/.gradle/caches/transforms-3/7ec0a8bc3e2c856fcdf460d9c428d362/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+128        <uses-library
+128-->[androidx.window:window:1.0.0-beta04] /Users/dilaraseren/.gradle/caches/transforms-3/7ec0a8bc3e2c856fcdf460d9c428d362/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+129            android:name="androidx.window.sidecar"
+129-->[androidx.window:window:1.0.0-beta04] /Users/dilaraseren/.gradle/caches/transforms-3/7ec0a8bc3e2c856fcdf460d9c428d362/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+130            android:required="false" />
+130-->[androidx.window:window:1.0.0-beta04] /Users/dilaraseren/.gradle/caches/transforms-3/7ec0a8bc3e2c856fcdf460d9c428d362/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+131
+132        <provider
+132-->[com.google.firebase:firebase-common:20.3.2] /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+133            android:name="com.google.firebase.provider.FirebaseInitProvider"
+133-->[com.google.firebase:firebase-common:20.3.2] /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+134            android:authorities="com.example.movie_recommendation_app_course.firebaseinitprovider"
+134-->[com.google.firebase:firebase-common:20.3.2] /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+135            android:directBootAware="true"
+135-->[com.google.firebase:firebase-common:20.3.2] /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+136            android:exported="false"
+136-->[com.google.firebase:firebase-common:20.3.2] /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+137            android:initOrder="100" />
+137-->[com.google.firebase:firebase-common:20.3.2] /Users/dilaraseren/.gradle/caches/transforms-3/96546625b327882cdb7007d0d0763231/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+138
+139        <activity
+139-->[com.google.android.gms:play-services-base:18.1.0] /Users/dilaraseren/.gradle/caches/transforms-3/c0c519b1dfdd89212463b8992533934b/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+140            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+140-->[com.google.android.gms:play-services-base:18.1.0] /Users/dilaraseren/.gradle/caches/transforms-3/c0c519b1dfdd89212463b8992533934b/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+141            android:exported="false"
+141-->[com.google.android.gms:play-services-base:18.1.0] /Users/dilaraseren/.gradle/caches/transforms-3/c0c519b1dfdd89212463b8992533934b/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+142            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+142-->[com.google.android.gms:play-services-base:18.1.0] /Users/dilaraseren/.gradle/caches/transforms-3/c0c519b1dfdd89212463b8992533934b/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+143
+144        <meta-data
+144-->[com.google.android.gms:play-services-basement:18.1.0] /Users/dilaraseren/.gradle/caches/transforms-3/882106724beb3c8700bc874282498048/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+145            android:name="com.google.android.gms.version"
+145-->[com.google.android.gms:play-services-basement:18.1.0] /Users/dilaraseren/.gradle/caches/transforms-3/882106724beb3c8700bc874282498048/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+146            android:value="@integer/google_play_services_version" />
+146-->[com.google.android.gms:play-services-basement:18.1.0] /Users/dilaraseren/.gradle/caches/transforms-3/882106724beb3c8700bc874282498048/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+147    </application>
+148
+149</manifest>
