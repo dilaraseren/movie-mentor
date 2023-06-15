@@ -14,6 +14,8 @@ class ProfilePage extends StatelessWidget {
       FirebaseAuth.instance.signOut();
       Navigator.pushReplacementNamed(context, "/loginPage");
     }
+    User? user = FirebaseAuth.instance.currentUser;
+String? userEmail = user?.email;
 
     return Scaffold(
         appBar: AppBar(
@@ -52,21 +54,13 @@ class ProfilePage extends StatelessWidget {
                   width: size.width * .3,
                   child: Row(
                     children: [
-                      Center(
-                        child: Text(
-                          'Dilara Seren',
-                          style: TextStyle(
-                            color: Constants.blackColor,
-                            fontSize: 20,
-                          ),
-                        ),
-                      ),
+                      Center(),
                       SizedBox(),
                     ],
                   ),
                 ),
                 Text(
-                  'dilaraseren@gmail.com',
+                  userEmail ?? 'E-posta bulunamadı',
                   style: TextStyle(
                     color: Constants.blackColor.withOpacity(.3),
                   ),
