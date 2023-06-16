@@ -154,7 +154,7 @@
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/FirebaseAuth</key>
 		<data>
-		lr5dYlWipO2azxGPi1AkzPdWi5k=
+		Olb1EnWyBNx7RaHPBJ5I2ho59zw=
 		</data>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Frameworks/FirebaseCore.framework/FirebaseCore</key>
 		<data>
-		RpM6TOujlxh0iEjNMKqgM3ZK4Os=
+		drdhlczWopTZuIE8uhZ45SYPDKg=
 		</data>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>Frameworks/FirebaseDatabase.framework/FirebaseDatabase</key>
 		<data>
-		JcA0uD0aoqAC1JRbura+EGAUMSQ=
+		KM7O2NSftKbe2EfHy5XJwGSWVm8=
 		</data>
 		<key>Frameworks/FirebaseDatabase.framework/Info.plist</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/FirebaseFirestore</key>
 		<data>
-		RbjTrZZYsmT+tBi/UBXOtE3mJug=
+		g98VihgA+ggaIFNxyN7+01EdOPI=
 		</data>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
 		<data>
@@ -714,7 +714,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c/PipkdH5V5UGJ6UpPgR5axLqpLYsmjF2SpfpgfLuKo=
+			RsRHNycPlrmBuhFpV91wPHDk3DjH4in++rLGKIOwn6Y=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseAuth.framework/Info.plist</key>
@@ -735,7 +735,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t1LsYwfwtkBzjjIWMVO91Nu/0vYGJGc54FkvUZfYDnE=
+			ns19oLBsxUzbFU5Fh7sQ7HrDlAyOKg0CaaDJbqhBrog=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseCore.framework/Info.plist</key>
@@ -777,7 +777,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZWaJ00XONt7Qf4bxefaR45qdaoVkwpVGl8PGXY0vBqA=
+			YK5IVnRVWJ8QcoR7jvbW960W2JyjtantbLf/v8qCD4E=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseDatabase.framework/Info.plist</key>
@@ -798,7 +798,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PspjyBGYWI+rW5SZkXj6E2Fo9rUpdwf0QY4KtvhP6OQ=
+			k4bDjMAy6//upgsCEXaGf6pt2U4D+Dbz7H9U8/VQdn8=
 			</data>
 		</dict>
 		<key>Frameworks/FirebaseFirestore.framework/Info.plist</key>
